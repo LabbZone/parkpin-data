@@ -2,37 +2,31 @@
   {
     "country": "France",
     "city": "Paris",
-    "apps": [
-      {
-        "name": "PayByPhone",
-        "platforms": {
-          "android": {
-            "appLink": "paybyphone://",
-            "webLink": "https://m.paybyphone.fr",
-            "storeLink": "https://play.google.com/store/apps/details?id=com.paybyphone.android"
-          },
-          "ios": {
-            "appLink": "paybyphone://",
-            "webLink": "https://m.paybyphone.fr",
-            "storeLink": "https://apps.apple.com/fr/app/paybyphone/id320622012"
-          }
-        }
-      },
-      {
-        "name": "Flowbird",
-        "platforms": {
-          "android": {
-            "appLink": "flowbird://",
-            "webLink": "https://flowbirdapp.com",
-            "storeLink": "https://play.google.com/store/apps/details?id=net.cityway.flowbird"
-          },
-          "ios": {
-            "appLink": "flowbird://",
-            "webLink": "https://flowbirdapp.com",
-            "storeLink": "https://apps.apple.com/fr/app/flowbird-parking/id1413611588"
-          }
-        }
-      }
-    ]
+    "name": "PayByPhone",
+    "android": {
+      "appLink": "paybyphone://",
+      "webLink": "https://m.paybyphone.fr",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.paybyphone.android"
+    },
+    "ios": {
+      "appLink": "paybyphone://",
+      "webLink": "https://m.paybyphone.fr",
+      "storeLink": "https://apps.apple.com/fr/app/paybyphone/id320622012"
+    }
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "name": "Flowbird",
+    "android": {
+      "appLink": "flowbird://",
+      "webLink": "https://flowbirdapp.com",
+      "storeLink": "https://play.google.com/store/apps/details?id=net.cityway.flowbird"
+    },
+    "ios": {
+      "appLink": "flowbird://",
+      "webLink": "https://flowbirdapp.com",
+      "storeLink": "https://apps.apple.com/fr/app/flowbird-parking/id1413611588"
+    }
   }
 ]
