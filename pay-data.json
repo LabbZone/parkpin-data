@@ -28,5 +28,20 @@
       "webLink": "https://flowbirdapp.com",
       "storeLink": "https://apps.apple.com/fr/app/flowbird-parking/id1413611588"
     }
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "name": "EasyPark",
+    "android": {
+      "appLink": "easypark://",
+      "webLink": "https://easypark.fr",
+      "storeLink": "https://play.google.com/store/apps/details?id=net.easypark"
+    },
+    "ios": {
+      "appLink": "easypark://",
+      "webLink": "https://easypark.fr",
+      "storeLink": "https://apps.apple.com/fr/app/easypark-parking/id123456789"
+    }
   }
 ]
