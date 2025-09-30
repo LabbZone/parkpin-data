@@ -67,7 +67,7 @@
   },
   {
     "country": "fr",
-    "city": "evreux, muids",
+    "cities": "evreux, muids",
     "name": "PrestoPark",
     "localOnly": true,
     "android": {
