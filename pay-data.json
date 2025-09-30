@@ -1,7 +1,6 @@
 [
   {
-    "country": "France",
-    "city": "Paris",
+    "country": "fr",
     "name": "PayByPhone",
     "android": {
       "appLink": "paybyphone://",
@@ -15,8 +14,7 @@
     }
   },
   {
-    "country": "France",
-    "city": "Paris",
+    "country": "fr",
     "name": "Flowbird",
     "android": {
       "appLink": "flowbird://",
@@ -30,8 +28,7 @@
     }
   },
   {
-    "country": "France",
-    "city": "Paris",
+    "country": "fr",
     "name": "EasyPark",
     "android": {
       "appLink": "easypark://",
@@ -42,6 +39,44 @@
       "appLink": "easypark://",
       "webLink": "https://easypark.fr",
       "storeLink": "https://apps.apple.com/fr/app/easypark-parking/id123456789"
+    }
+  },
+  {
+    "country": "fr",
+    "name": "OPnGO",
+    "android": {
+      "webLink": "https://www.opngo.com",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.opngo"
+    },
+    "ios": {
+      "webLink": "https://www.opngo.com",
+      "storeLink": "https://apps.apple.com/fr/app/opngo/id1141710090"
+    }
+  },
+  {
+    "country": "fr",
+    "name": "Indigo Neo",
+    "android": {
+      "webLink": "https://www.indigoneo.fr",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.opngo"
+    },
+    "ios": {
+      "webLink": "https://www.indigoneo.fr",
+      "storeLink": "https://apps.apple.com/fr/app/opngo/id1141710090"
+    }
+  },
+  {
+    "country": "fr",
+    "city": "evreux",
+    "name": "PrestoPark",
+    "localOnly": true,
+    "android": {
+      "webLink": "https://www.prestopark.com",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.urbiotica.prestopark"
+    },
+    "ios": {
+      "webLink": "https://www.prestopark.com",
+      "storeLink": "https://apps.apple.com/fr/app/prestopark/id1573654366"
     }
   }
 ]
