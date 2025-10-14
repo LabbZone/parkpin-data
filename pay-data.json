@@ -43,18 +43,6 @@
   },
   {
     "country": "fr",
-    "name": "OPnGO",
-    "android": {
-      "webLink": "https://www.opngo.com",
-      "storeLink": "https://play.google.com/store/apps/details?id=com.opngo"
-    },
-    "ios": {
-      "webLink": "https://www.opngo.com",
-      "storeLink": "https://apps.apple.com/fr/app/opngo/id1141710090"
-    }
-  },
-  {
-    "country": "fr",
     "name": "Indigo Neo",
     "android": {
       "webLink": "https://www.indigoneo.fr",
