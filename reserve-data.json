@@ -13,6 +13,6 @@
     "name": "Onepark",
     "webLink": "https://www.onepark.fr",
     "storeLink": "https://apps.apple.com/fr/app/onepark/id1041824887",
-    "localOnly": true
+    "localOnly": false
   }
 ]
