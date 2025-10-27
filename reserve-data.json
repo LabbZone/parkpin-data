@@ -1,7 +1,7 @@
 [
   {
-    "country": "fr",
-    "cities": ["paris", "lyon", "nice"],
+    "country": ["fr", "be", "lu", "es", "ch", "ca"],
+    "cities": [],
     "name": "Indigo Neo",
     "webLink": "https://www.indigoneo.fr",
     "storeLink": "https://play.google.com/store/apps/details?id=com.opngo",
