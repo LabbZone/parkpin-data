@@ -1,21 +1,35 @@
 [
   {
-    "country": "fr",
-    "name": "PayByPhone",
+    "country": ["fr", "de", "es", "it", "nl", "be", "pt", "se"],
+    "name": "EasyPark",
+    "localOnly": false,
+    "cityFilterByCountry": true,
     "android": {
-      "appLink": "paybyphone://",
-      "webLink": "https://m.paybyphone.fr",
-      "storeLink": "https://play.google.com/store/apps/details?id=com.paybyphone.android"
+      "appLink": "easypark://",
+      "webLink": "https://www.easyparkgroup.com",
+      "storeLink": "https://play.google.com/store/apps/details?id=net.easypark"
     },
     "ios": {
-      "appLink": "paybyphone://",
-      "webLink": "https://m.paybyphone.fr",
-      "storeLink": "https://apps.apple.com/fr/app/paybyphone/id320622012"
+      "appLink": "easypark://",
+      "webLink": "https://www.easyparkgroup.com",
+      "storeLink": "https://apps.apple.com/app/easypark/id449594317"
+    },
+    "cities": {
+      "fr": [],
+      "de": [],
+      "es": [],
+      "it": [],
+      "nl": [],
+      "be": [],
+      "pt": [],
+      "se": []
     }
   },
   {
-    "country": "fr",
+    "country": ["fr", "be", "ch", "de", "nl", "it", "es", "pt", "se", "no", "uk", "us", "ca", "nz", "au"],
     "name": "Flowbird",
+    "localOnly": false,
+    "cityFilterByCountry": true,
     "android": {
       "appLink": "flowbird://",
       "webLink": "https://flowbirdapp.com",
@@ -24,40 +38,74 @@
     "ios": {
       "appLink": "flowbird://",
       "webLink": "https://flowbirdapp.com",
-      "storeLink": "https://apps.apple.com/fr/app/flowbird-parking/id1413611588"
-    }
-  },
-  {
-    "country": "fr",
-    "name": "EasyPark",
-    "android": {
-      "appLink": "easypark://",
-      "webLink": "https://easypark.fr",
-      "storeLink": "https://play.google.com/store/apps/details?id=net.easypark"
+      "storeLink": "https://apps.apple.com/app/flowbird-parking/id1413611588"
     },
-    "ios": {
-      "appLink": "easypark://",
-      "webLink": "https://easypark.fr",
-      "storeLink": "https://apps.apple.com/fr/app/easypark-parking/id123456789"
+    "cities": {
+      "fr": [],
+      "be": [],
+      "ch": [],
+      "de": [],
+      "nl": [],
+      "it": [],
+      "es": [],
+      "pt": [],
+      "se": [],
+      "no": [],
+      "uk": [],
+      "us": [],
+      "ca": [],
+      "nz": [],
+      "au": []
     }
   },
   {
-    "country": "fr",
+    "country": ["fr", "be", "lu", "es"],
     "name": "Indigo Neo",
+    "localOnly": false,
+    "cityFilterByCountry": true,
     "android": {
-      "webLink": "https://www.indigoneo.fr",
-      "storeLink": "https://play.google.com/store/apps/details?id=com.opngo"
+      "webLink": "https://www.indigoneo.com/open",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.parkindigo.neomobile"
     },
     "ios": {
-      "webLink": "https://www.indigoneo.fr",
-      "storeLink": "https://apps.apple.com/fr/app/opngo/id1141710090"
+      "webLink": "https://www.indigoneo.com/open",
+      "storeLink": "https://apps.apple.com/app/indigo-neo/id1483566304"
+    },
+    "cities": {
+      "fr": [],
+      "be": [],
+      "lu": [],
+      "es": []
     }
   },
   {
-    "country": "fr",
-    "cities": ["evreux", "muids"],
+    "country": ["uk", "fr", "de", "ch", "it", "us", "ca"],
+    "name": "PayByPhone",
+    "localOnly": false,
+    "cityFilterByCountry": true,
+    "android": {
+      "webLink": "https://www.paybyphone.com",
+      "storeLink": "https://play.google.com/store/apps/details?id=com.paybyphone"
+    },
+    "ios": {
+      "webLink": "https://www.paybyphone.com",
+      "storeLink": "https://apps.apple.com/app/paybyphone/id448474168"
+    },
+    "cities": {
+      "uk": [],
+      "fr": [],
+      "de": [],
+      "ch": [],
+      "it": [],
+      "us": [],
+      "ca": []
+    }
+  },
+  {
+    "country": ["fr", "it", "ch", "no", "be", "nz"],
     "name": "PrestoPark",
-    "localOnly": true,
+    "localOnly": false,
+    "cityFilterByCountry": true,
     "android": {
       "webLink": "https://www.prestopark.com",
       "storeLink": "https://play.google.com/store/apps/details?id=com.urbiotica.prestopark"
@@ -65,6 +113,14 @@
     "ios": {
       "webLink": "https://www.prestopark.com",
       "storeLink": "https://apps.apple.com/fr/app/prestopark/id1573654366"
+    },
+    "cities": {
+      "fr": [],
+      "ch": [],
+      "it": ["muoviamoci Siracusa", "pulsano"],
+      "nz": ["rotorua"],
+      "be": ["lommel", "ostende", "saint-trond"],
+      "no": ["flekkefjord", "lillesand", "senja"]
     }
   }
 ]
