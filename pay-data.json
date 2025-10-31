@@ -105,7 +105,7 @@
     "country": ["fr", "it", "ch", "no", "be", "nz"],
     "name": "PrestoPark",
     "localOnly": false,
-    "cityFilterByCountry": true,
+    "cityFilterByCountry": false,
     "android": {
       "webLink": "https://www.prestopark.com",
       "storeLink": "https://play.google.com/store/apps/details?id=com.urbiotica.prestopark"
