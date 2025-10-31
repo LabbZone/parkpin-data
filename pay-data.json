@@ -3,7 +3,7 @@
     "country": ["fr", "de", "es", "it", "nl", "be", "pt", "se"],
     "name": "EasyPark",
     "localOnly": false,
-    "cityFilterByCountry": true,
+    "cityFilterByCountry": false,
     "android": {
       "appLink": "easypark://",
       "webLink": "https://www.easyparkgroup.com",
@@ -29,7 +29,7 @@
     "country": ["fr", "be", "ch", "de", "nl", "it", "es", "pt", "se", "no", "uk", "us", "ca", "nz", "au"],
     "name": "Flowbird",
     "localOnly": false,
-    "cityFilterByCountry": true,
+    "cityFilterByCountry": false,
     "android": {
       "appLink": "flowbird://",
       "webLink": "https://flowbirdapp.com",
@@ -62,7 +62,7 @@
     "country": ["fr", "be", "lu", "es"],
     "name": "Indigo Neo",
     "localOnly": false,
-    "cityFilterByCountry": true,
+    "cityFilterByCountry": false,
     "android": {
       "webLink": "https://www.indigoneo.com/open",
       "storeLink": "https://play.google.com/store/apps/details?id=com.parkindigo.neomobile"
